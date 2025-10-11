@@ -4,8 +4,6 @@ A simple and efficient Chrome Extension for saving and managing web URLs (or "le
 
 It allows users to quickly save the current tab's URL or manually input any other URL, storing them persistently using the browser's local storage.
 
----
-
 <img src="assets/screenshot.png" alt="Screenshot of the Leads Tracker App UI" width="700"/>
 
 ---
@@ -40,7 +38,7 @@ This extension is not published on the Chrome Web Store. To install it, you need
     ```
 2.  **Open Chrome Extensions Page:** Open your Google Chrome browser and navigate to `chrome://extensions`.
 3.  **Enable Developer Mode:** Toggle the **Developer mode** switch in the top-right corner.
-4.  **Load Unpacked:** Click the **"Load unpacked"** button and select the folder containing your extension files.
+4.  **Load Unpacked:** Click the **"Load unpacked"** button and select the folder containing your leads tracker chrome extension files.
 5.  **Pin the Extension:** Click the puzzle piece icon next to your profile picture, and click the **pin** icon next to "Leads Tracker" to keep it easily accessible on your toolbar.
 
 ### 2. Usage
